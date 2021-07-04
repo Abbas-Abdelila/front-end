@@ -1,0 +1,21 @@
+h1 {
+  color: #cd113b;
+  text-align: center;
+}
+h2,
+h3 {
+  text-align: center;
+  color: blueviolet;
+}
+
+h3 {
+  color: #ecd662;
+}
+
+.list {
+  list-style-type: none;
+  display: flex;
+  gap: 40px;
+  justify-content: center;
+  margin-left: -30px;
+}

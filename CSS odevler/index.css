@@ -1,0 +1,32 @@
+h1 {
+  color: #cd113b;
+  text-align: center;
+}
+h2,
+h3 {
+  text-align: center;
+}
+h3 {
+  color: #ecd662;
+}
+#anasayfa {
+  color: blueviolet;
+}
+p {
+  text-align: center;
+}
+
+.list {
+  list-style-type: none;
+  display: flex;
+  gap: 40px;
+  justify-content: center;
+  margin-left: -30px;
+}
+.list_items {
+  text-align: center;
+}
+.list2 {
+  display: inline-block;
+  text-align: left;
+}
