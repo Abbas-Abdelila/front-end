@@ -1,0 +1,12 @@
+body {
+  background-color: #e9ecef !important;
+}
+.card {
+  background-color: #e9ecef !important;
+}
+
+.card-img-top {
+  width: 100%;
+
+  object-fit: cover;
+}
