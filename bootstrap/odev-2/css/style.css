@@ -37,7 +37,9 @@ body {
 }
 
 svg,
-small {
+small,
+strong,
+span {
   cursor: pointer;
 }
 
